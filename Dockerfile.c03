@@ -1,0 +1,2 @@
+FROM nginx:latest
+COPY c03.html /usr/share/nginx/html/index.html
